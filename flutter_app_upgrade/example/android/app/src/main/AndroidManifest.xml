@@ -28,6 +28,8 @@
             android:name="flutterEmbedding"
             android:value="2" />
 
+
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}.fileprovider"
